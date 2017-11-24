@@ -1,0 +1,4 @@
+
+npm start
+killall -KILL node
+
